@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635503410 source:c:\users\12den\documents\cishka\c\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
